@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b18fa6e2282e6b4e8802e337b01b5f8, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Avion 1
+    charactersprite: {fileID: 21300000, guid: a61850cbf4bc52d42b01ad80e2d58acd, type: 3}
+  - characterName: Avion 2
+    charactersprite: {fileID: 21300000, guid: 55cd0def1d2bfad48baf08962e30db79, type: 3}
+  - characterName: Avion 3
+    charactersprite: {fileID: 21300000, guid: f2fe0841388775342a97553bd07cd6f6, type: 3}
